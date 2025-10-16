@@ -16,3 +16,9 @@ const resolvedata=path1.resolve(filepath);
 const dirdata=path1.dirname (filepath);
 const basedata=path1.basename(filepath);
 const extdata=path1.extname(filepath);
+
+console.log(parsedata);
+console.log(resolvedata);
+console.log(dirdata);
+console.log(basedata);
+console.log(extdata);
