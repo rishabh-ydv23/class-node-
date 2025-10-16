@@ -1,0 +1,21 @@
+{
+  "name": "int-222",
+  "version": "1.0.0",
+  "description": "",
+  "main": "16_10_basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh-ydv23/class-node-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rishabh-ydv23/class-node-/issues"
+  },
+  "homepage": "https://github.com/rishabh-ydv23/class-node-#readme"
+}
