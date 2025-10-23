@@ -1,0 +1,2 @@
+this is content of file
+ this is appended content
