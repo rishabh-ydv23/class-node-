@@ -6,3 +6,5 @@
 | **Duplex**    | Both readable and writable             | TCP sockets                            |
 | **Transform** | Duplex stream that can **modify data** | Compression, encryption                |
 */ 
+
+
