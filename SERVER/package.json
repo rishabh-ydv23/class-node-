@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "just for practise ",
+  "license": "ISC",
+  "author": "rishabh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
