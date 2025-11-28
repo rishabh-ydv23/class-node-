@@ -13,9 +13,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/rishabh-ydv23/class-node-/issues"
   },
-  "homepage": "https://github.com/rishabh-ydv23/class-node-#readme"
+  "homepage": "https://github.com/rishabh-ydv23/class-node-#readme",
+  "dependencies": {
+    "morgan": "^1.10.1"
+  }
 }
