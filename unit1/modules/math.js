@@ -10,4 +10,4 @@ function multiply(a,b){
 function subtract(a,b){
     return a-b;
 }
-module.exports={add,multiply,subtract};
+export {add,multiply,subtract};
